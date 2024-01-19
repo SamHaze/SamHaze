@@ -14,6 +14,7 @@ I hold several industry-recognized certifications. Verify my certificates on [Cr
 - A+ Certification
 - Network+ Certification
 - Security+ Certification
+- (ISC)² - Certified in Cybersecurity
   
 ## Social Media
 
