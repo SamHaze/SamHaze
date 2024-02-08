@@ -4,7 +4,7 @@ I'm a dedicated IT and Cybersecurity enthusiast, committed to staying at the for
 
 ## Projects
 
-- [**Implementing a SOC and Honeynet in Azure**](https://github.com/SamHaze/Azure-Honeynet) - Security Operations Center (SOC) & Honeynet in Azure to enhance network security.
+- [**Implementing a SOC and Honeynet in Azure**](https://github.com/SamHaze/Azure-Honeynet) - Security Operations Center & Honeynet in Azure to enhance network security.
 
 ## Certifications
 
