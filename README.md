@@ -11,10 +11,13 @@ I'm a dedicated IT and Cybersecurity professional, committed to staying at the f
 
 I hold several industry-recognized certifications. Verify my certificates on [Credly](https://www.credly.com/users/SamHaze)
 
-- A+ Certification
-- Network+ Certification
-- Security+ Certification
 - (ISC)² - Certified in Cybersecurity
+- CompTIA - Security+
+- CompTIA - Network+
+- CompTIA - A+
+- CompTIA - ITF+
+- Amazon AWS - Certified Cloud Practitioner
+- Microsoft - Azure AZ-900
   
 ## Social Media
 
