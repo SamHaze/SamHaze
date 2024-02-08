@@ -1,10 +1,10 @@
-# Hello, I'm Sam
+# Hello, I'm Sam,
 
 I'm a dedicated IT and Cybersecurity enthusiast, committed to staying at the forefront of technology by exploring new concepts and contributing to impactful projects.
 
 ## Projects
 
-- [**Implementing a SOC and Honeynet in Azure**](https://github.com/SamHaze/Azure-Honeynet) 
+- [**Implementing a SOC and Honeynet in Azure**](https://github.com/SamHaze/Azure-Honeynet) - Security Operations Center (SOC) & Honeynet in Azure to enhance network security.
 
 ## Certifications
 
