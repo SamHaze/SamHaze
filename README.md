@@ -8,7 +8,7 @@ I'm a dedicated IT and Cybersecurity enthusiast, committed to staying at the for
 
 ## Certifications
 
-I hold several industry-recognized certifications. Verify my certificates on [Credly](https://www.credly.com/users/SamHaze).
+I hold several industry-recognized certifications. Verify my credentials on [Credly](https://www.credly.com/users/SamHaze).
 
 - (ISC)² - Certified in Cybersecurity
 - CompTIA - Security+
