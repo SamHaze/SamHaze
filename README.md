@@ -4,17 +4,18 @@ I'm a dedicated IT and Cybersecurity enthusiast, committed to staying at the for
 
 ## Projects
 
-- [**Implementing a SOC and Honeynet in Azure**](https://github.com/SamHaze/Azure-Honeynet) - SOC & Honeynet in Azure to enhance network security.
+- [**Implementing a SOC and Honeynet in Azure**](https://github.com/SamHaze/Azure-Honeynet) 
 
 ## Certifications
 
 I hold several industry-recognized certifications. Verify my credentials on [Credly](https://www.credly.com/users/SamHaze).
 
-- (ISC)² - Certified in Cybersecurity
+- CompTIA - CySA+
 - CompTIA - Security+
 - CompTIA - Network+
 - CompTIA - A+
 - CompTIA - ITF+
+- (ISC)² - Certified in Cybersecurity
 - Amazon AWS - Certified Cloud Practitioner
 - Microsoft - Azure AZ-900
   
