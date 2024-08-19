@@ -8,7 +8,7 @@
 INTP | Logician | Strengthfinder Qualities: Analytical, Innovative, Objective, and Adaptable
 </p>
 <p align="center">
-Tech Enthusiast, Cybersecurity Aficionado, CTF Participant, Open-source Advocate, Sci-fi Bookworm, Coffee Connoisseur
+Tech Enthusiast, Cybersecurity Aficionado, CTF Participant, Open-source Advocate, Sci-Fi Bookworm, Coffee Connoisseur
 </p>
 
 <p align="center">
