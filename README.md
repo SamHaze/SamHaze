@@ -48,7 +48,7 @@ Currently working on: <a href="https://docs.securityonion.net/en/2.4/architectur
 
 <h3 align="center">Certifications:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/samhaze/"><img src="https://images.credly.com/images/7b0fab0d-c9d5-409d-bdc0-1772143cdab1/CompTIA_CASP_2Bce.png" alt="CompTIA CASP+" width="100" height="100"></a>
+  <a href="https://www.linkedin.com/in/samhaze/"><img src="https://images.credly.com/images/eda22a60-7b46-426c-89df-681b25600b9f/blob" alt="CompTIA CASP+" width="100" height="100"></a>
   <a href="https://www.linkedin.com/in/samhaze/"><img src="https://images.credly.com/images/87ef04a1-b68d-4c11-acaf-a5b1d4c2c9ea/CompTIA_PenTest_2B.png" alt="CompTIA PenTest+" width="100" height="100"></a>
   <a href="https://www.credly.com/badges/39c30076-81cb-486c-9da5-f1a1f3825ada"><img src="https://images.credly.com/size/680x680/images/5cb4b153-44d8-410c-97c6-6afba3faa4af/Comptia_CySA_2Bce.png" alt="CompTIA CySA+" width="100" height="100"></a>
   <a href="https://www.credly.com/badges/b4d6f056-b423-4903-ace5-a86c92787284"><img src="https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="CompTIA Security+" width="100" height="100"></a>
