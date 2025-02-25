@@ -31,7 +31,6 @@
   <img src="https://nmap.org/images/nmap-logo-64px.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/>
   <img src="https://www.splunk.com/content/dam/splunk-blogs/images/2017/02/splunk-logo.png" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
 </div>
 
 <h3 align="center">Active Engagements</h3>
