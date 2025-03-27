@@ -47,19 +47,19 @@
     <img src="https://images.credly.com/size/340x340/images/5343b652-c9a0-418e-bfaf-7ed5a2ddd0c4/blob" alt="CompTIA CASP+" width="100" height="100">
   </a>
   <a href="https://credly.com/badges/0f5e369c-813d-4dd8-ba29-0190eee3e888">
-    <img src="https://images.credly.com/images/87ef04a1-b68d-4c11-acaf-a5b1d4c2c9ea/CompTIA_PenTest_2B.png" alt="CompTIA PenTest+" width="100" height="100">
+    <img src="https://images.credly.com/size/340x340/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/blob" alt="CompTIA PenTest+" width="100" height="100">
   </a>
   <a href="https://credly.com/badges/be198070-585e-4401-a901-28f85327b2c6">
     <img src="https://images.credly.com/size/680x680/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" alt="CompTIA CySA+" width="100" height="100">
   </a>
   <a href="https://credly.com/badges/b4d6f056-b423-4903-ace5-a86c92787284">
-    <img src="https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="CompTIA Security+" width="100" height="100">
+    <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+" width="100" height="100">
   </a>
   <a href="https://credly.com/badges/e5831baa-ef54-4d0f-a76a-867ff514e6b9">
-    <img src="https://images.credly.com/size/110x110/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="CompTIA Network+" width="100" height="100">
+    <img src="https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="CompTIA Network+" width="100" height="100">
   </a>
   <a href="https://credly.com/badges/08e69ebd-9154-4414-932a-6ea1ff57bf46">
-    <img src="https://images.credly.com/size/680x680/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" alt="CompTIA A+" width="100" height="100">
+    <img src="https://images.credly.com/size/340x340/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" alt="CompTIA A+" width="100" height="100">
   </a>
   <a href="https://credly.com/badges/00524fc9-de1f-4c24-88ef-d10db2a398a3">
     <img src="https://images.credly.com/size/680x680/images/13478966-0bdb-4f78-ae2e-27d61a9d1b4d/blob" alt="CompTIA ITF+" width="100" height="100">
