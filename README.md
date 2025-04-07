@@ -62,7 +62,7 @@
     <img src="https://images.credly.com/size/340x340/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" alt="CompTIA A+" width="100" height="100">
   </a>
   <a href="https://credly.com/badges/00524fc9-de1f-4c24-88ef-d10db2a398a3">
-    <img src="https://images.credly.com/size/680x680/images/13478966-0bdb-4f78-ae2e-27d61a9d1b4d/blob" alt="CompTIA ITF+" width="100" height="100">
+    <img src="https://images.credly.com/size/680x680/images/a49be93a-34ff-4224-996c-b2c976a5dc9d/blob" alt="CompTIA ITF+" width="100" height="100">
   </a>
 
   <!-- EC-Council CEH -->
