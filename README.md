@@ -12,6 +12,9 @@
 <p align="center">
   <a href="https://tryhackme.com/p/IP">
     <img src="http://tryhackme-badges.s3.amazonaws.com/IP.png" alt="TryHackMe" height="70">
+      </a>
+</p>
+<p align="center">
   <a href="https://tryhackme.com/p/IP">
     <img src="https://tryhackme-badges.s3.amazonaws.com/IP.png" alt="TryHackMe" height="60">
   </a>
