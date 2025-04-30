@@ -14,11 +14,6 @@
     <img src="http://tryhackme-badges.s3.amazonaws.com/IP.png" alt="TryHackMe" height="70">
       </a>
 </p>
-<p align="center">
-  <a href="https://tryhackme.com/p/IP">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/IP.png" alt="TryHackMe" height="60">
-  </a>
-</p>
 
 <h3 align="center">Technical Arsenal</h3>
 <div align="center">
