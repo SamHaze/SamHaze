@@ -5,14 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=SamHaze&label=Profile%20views&color=d90b0d&style=flat" alt="Profile Views Counter" />
 </p>
 
-<br>
-
 <p align="center">
 Specializing in security operations, threat detection, and penetration testing.<br>
 Experienced in enterprise security solutions, cloud security architecture, and automated workflows.
 </p>
-
-<br>
 
 ### Core Competencies
 
@@ -22,8 +18,6 @@ Experienced in enterprise security solutions, cloud security architecture, and a
 <tr><td align="right"><b>Cloud Security:</b></td><td align="left">Azure & AWS security architecture, cloud-native security controls</td></tr>
 <tr><td align="right"><b>Automation:</b></td><td align="left">Python scripting, PowerShell automation, security orchestration</td></tr>
 </table>
-
-<br>
 
 ### Professional Certifications
 
@@ -60,8 +54,6 @@ Experienced in enterprise security solutions, cloud security architecture, and a
 <p align="center">
   <a href="https://credly.com/users/samhaze/badges">View Full Certification Portfolio →</a>
 </p>
-
-<br>
 
 ### Connect
 
